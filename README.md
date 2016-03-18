@@ -1,0 +1,1 @@
+Materiale per Meeting Haskell.
