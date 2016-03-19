@@ -1,3 +1,6 @@
 [submodule "model"]
 	path = model
 	url = https://github.com/tittoassini/model.git
+[submodule "flat"]
+	path = flat
+	url = https://github.com/tittoassini/flat.git
