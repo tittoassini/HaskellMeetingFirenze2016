@@ -84,7 +84,7 @@ L'installazione può richiedere diversi minuti.
 
 Per verificare che tutto funzioni, fate partire il programma `hchat` (che è l'esempio da cui partiremo al meeting):
 
-```shell
+```
 stack exec hchat
 
 Enter your name:
