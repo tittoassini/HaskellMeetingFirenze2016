@@ -4,3 +4,12 @@
 [submodule "flat"]
 	path = flat
 	url = https://github.com/tittoassini/flat.git
+[submodule "typed"]
+	path = typed
+	url = https://github.com/tittoassini/typed.git
+[submodule "router-api"]
+	path = router-api
+	url = https://github.com/tittoassini/router-api.git
+[submodule "chat"]
+	path = chat
+	url = https://github.com/tittoassini/chat.git
