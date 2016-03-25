@@ -112,5 +112,12 @@ Altri comandi utili, per lo sviluppo che faremo durante il meeting:
 
 `stack build --file-watch`
 
+-- Per evitare problemi con la soprapposizione dell'input dell'utente con i messaggi in arrivo, hchat può essere anche usato solo in modalità Input or Output. Ha anche una opzione Debug per mostrare esattamente che messaggi vengono scambiati:
+
+`hchat Input`
+
+`hchat Output`
+
+`hchat Output Debug`
 
 Se avete problemi, aprite un **Issue** su questo repository o scrivete a Titto a: tittoassini@gmail.com
