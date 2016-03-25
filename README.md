@@ -106,7 +106,7 @@ Altri comandi utili, per lo sviluppo che faremo durante il meeting:
 
 -- Per fare un update all'ultima versione del codice:
 
-`git pull;git submodule update --remote`
+`git pull;git submodule update --remote;stack build`
 
 -- Per ricompilare automaticamente il codice quando viene modificato:
 
