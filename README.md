@@ -1,5 +1,7 @@
 ### Haskell Day Firenze 26 Marzo 2016
 
+NOTA: Il codice contenuto in questo repository non è più funzionante, per l'ultima versione vedi [quid2](https://github.com/tittoassini/quid2).
+
 #### Semplici Sistemi distribuiti in Haskell.
 
 Mentor: Pasqualino "Titto" Assini
